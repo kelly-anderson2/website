@@ -1,3 +1,7 @@
+body {
+  family-font:papyrus;
+  text-shadow: 0px 0px 2px magenta;
+}
 h1 {
   color:red;
   background-color:black;
