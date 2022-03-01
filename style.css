@@ -47,7 +47,7 @@ a:link,
 a:focus,
 a:active {
   text-decortion: none;
-  color:black;
+  color:grey;
 }
 
 a:hover {
