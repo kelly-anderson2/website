@@ -6,21 +6,19 @@ body {
 h1 {
   color:red;
   background-color:black;
-  font-size: 36px;
 }
 
 h2 {
   color:red;
   background-color:black;
-  font-size:24px;
 }
 
 h3 {
   color:red;
   background-color:black;
-  font-size: 18px;
 }
 
 h1, h2, h3, {
+  font-size:24px;
   font-weight: 900;
 }
