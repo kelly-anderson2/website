@@ -37,3 +37,8 @@ footer p {
   background-color: black;
   font-style: bold;
 }
+
+a {
+  color: red;
+  tect-decoration: none;
+}
