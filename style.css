@@ -30,3 +30,10 @@ p {
   line-height: 3;
   color: red;
 }
+
+footer p {
+  font-size:24px;
+  color: white;
+  background-color: black;
+  font-style: bold;
+}
