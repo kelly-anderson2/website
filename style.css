@@ -51,6 +51,7 @@ a:active {
 }
 
 a:hover {
+  /* Text decoration underline*/
   text-decoration: underline;
   background-color: black;
 }
