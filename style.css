@@ -1,7 +1,9 @@
 /* Website styles */
 *{
   font-size: 100%;
-  border: 1px solid red;
+  /* border: 1px solid #6f0a03; */
+  margin: 0;
+  line-height: 1;
 }
 
 
