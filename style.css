@@ -20,7 +20,7 @@ h1 {
   color: red;
   background-color: black;
   text-align: justifyl;
-  border: 1px dotted red;
+  /* border: 1px dotted red; */
 }
 
 h2 {
@@ -93,4 +93,10 @@ img {
   /* width: 300px; */
   /* height: 200px; */
   width: 100%;
+}
+
+.title {
+  /* font-size: 48px; */
+  background-color: white;
+  text-decoration: underline;
 }
