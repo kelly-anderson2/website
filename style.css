@@ -28,7 +28,7 @@ h1 {
 h2 {
   color: red;
   background-color: black;
-  border: 1px dotted red;
+  /* border: 1px dotted red; */
 }
 
 h3 {
