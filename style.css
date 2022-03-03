@@ -13,8 +13,12 @@ body {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 14px;
   margin: 50px;
-  background-image: url(images/whitewaves.png)
-    /* background-repeat: no-repeat; */
+  /* background-image: url(images/whitewaves.png) */
+    background: url(images/fire.jpg)no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 
