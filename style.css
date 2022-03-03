@@ -14,7 +14,7 @@ body {
   font-size: 14px;
   margin: 50px;
   background-image: url(images/whitewaves.png)
-  /* background-repeat: no-repeat; */
+    /* background-repeat: no-repeat; */
 }
 
 
@@ -34,7 +34,7 @@ h2 {
 h3 {
   color: red;
   background-color: black;
-  border: 1px dotted red;
+  /* border: 1px dotted red; */
 }
 
 header {
@@ -66,7 +66,7 @@ ul, ol {
   padding: 30px;
 }
 
-footer p {
+#footer p {
   font-size:14px;
   color: red;
   background-color: black;
@@ -103,11 +103,18 @@ img {
   /* text-decoration: underline; */
 }
 
-.container {
+/* .container {
   max-width: 1000px;
   margin: 0 auto;
-}
+} */
 
 div {
   margin: 0 auto;
+}
+
+.banner {
+  height: 250px;
+  background-image: url(images/gwasala.jpg);
+  background-size: cover;
+  background-position: center;
 }
