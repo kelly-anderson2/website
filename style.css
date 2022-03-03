@@ -13,6 +13,8 @@ body {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 14px;
   margin: 50px;
+  background-image: url(images/whitewaves.png)
+  /* background-repeat: no-repeat; */
 }
 
 
@@ -38,15 +40,15 @@ h3 {
 header {
   font-size: 40px;
   /* background-color: red; */
-  border-bottom: 5px solid #6f0a03;
+  border-bottom: 5px solid black;
   margin: 20px;
   /* padding: 20px; */
 }
 
-h1, h2, h3, {
+/* h1, h2, h3, {
   font-size:24px;
   font-weight: 900;
-  margin-bottom: 20px;
+  margin-bottom: 20px; */
   /* border: 1px dotted red; */
 }
 
@@ -97,6 +99,15 @@ img {
 
 .title {
   /* font-size: 48px; */
-  background-color: white;
-  text-decoration: underline;
+  /* background-color: white; */
+  /* text-decoration: underline; */
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+div {
+  margin: 0 auto;
 }
