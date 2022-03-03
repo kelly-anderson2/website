@@ -56,15 +56,16 @@ header {
 }
 
 p {
-  line-height: 2;
+  line-height: 3;
   color: red;
   text-align: justify;
   margin: 14px 0;
   /* border: 1px solid red; */
 }
 
-ul, ol {
+ol {
   margin: 5px 0;
+  font-size: 14px;
   /* border: 1px solid red; */
   padding: 20px;
 }
