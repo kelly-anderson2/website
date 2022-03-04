@@ -14,7 +14,7 @@ body {
   font-size: 14px;
   margin: 50px;
   /* background-image: url(images/whitewaves.png) */
-    background: url(images/water.jpg)no-repeat center center fixed;
+    background: url(images/whitewaves.png)no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -61,7 +61,7 @@ h1, h2, h3, {
 
 p {
   line-height: 4;
-  color: #b41900;
+  color: red;
   text-align: justify;
   margin: 10px 0;
   /* background-color: black; */
